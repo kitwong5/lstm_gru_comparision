@@ -29,19 +29,13 @@ produce an accurate prediction result could be due to the pair of FX currency se
 ![image](https://github.com/kitwong5/lstm_gru_comparision/assets/142315009/2ee7fbb6-e96a-4db9-b06d-075d420143c3)
 In conclusion, there are various deep-learning modeling tools available for data analysis. However, not all of them are suitable for financial instrument analysis. Different financial instruments or financial data (like fundamental data, macroeconomic data, and technical data) might perform differently in different kinds of deep learning modeling tools. Users should pay attention to the nature of the input data and select proper deep-learning tools for data analysis.
 # Reference
-[2] Wikipedia Contributors (2023). Gated recurrent unit. [online] Wikipedia. Available at: 
-https://en.wikipedia.org/wiki/Gated_recurrent_unit
-[3] Wikipedia Contributors (2018). Recurrent neural network. [online] Wikipedia. Available at: 
-https://en.wikipedia.org/wiki/Recurrent_neural_network
-[4] Aurelien Geron (2018). Neural networks and deep learning - Chapert 4 Recurrent Neural Network.
-[online] O.Reilly. Available at: https://www.oreilly.com/library/view/neural-networksand/9781492037354/ch04.html
-[5] Mystery Vault (2021). LSTM vs GRU in Recurrent Neural Network: A Comparative Study. [online] 
-Analytics India Magazome LTD. Available at: https://analyticsindiamag.com/lstm-vs-gru-in-recurrentneural-network-a-comparative-study/
-[6] R. Cahuantzi, X. Chen, S. Guttel (2021). A comparison of LSTM an GRU networks for learning 
-symbolic sequences. [online] Cornell Universy. Available at: https://arxiv.org/abs/2107.02248
-[7] A. Dautel, W. Hardle, S. Lessmann, H Seow (2020). Forex exchange rate forecasting using deep 
-recurrent neural networks. [online] Springer Link. Available at:
-https://link.springer.com/article/10.1007/s42521-020-00019-x
+[2] Wikipedia Contributors (2023). Gated recurrent unit. [online] Wikipedia. Available at: https://en.wikipedia.org/wiki/Gated_recurrent_unit </br>
+[3] Wikipedia Contributors (2018). Recurrent neural network. [online] Wikipedia. Available at: https://en.wikipedia.org/wiki/Recurrent_neural_network </br>
+[4] Aurelien Geron (2018). Neural networks and deep learning - Chapert 4 Recurrent Neural Network. [online] O.Reilly. Available at: https://www.oreilly.com/library/view/neural-networksand/9781492037354/ch04.html </br>
+[5] Mystery Vault (2021). LSTM vs GRU in Recurrent Neural Network: A Comparative Study. [online] Analytics India Magazome LTD. Available at: https://analyticsindiamag.com/lstm-vs-gru-in-recurrentneural-network-a-comparative-study/ </br>
+[6] R. Cahuantzi, X. Chen, S. Guttel (2021). A comparison of LSTM an GRU networks for learning symbolic sequences. [online] Cornell Universy. Available at: https://arxiv.org/abs/2107.02248 </br>
+[7] A. Dautel, W. Hardle, S. Lessmann, H Seow (2020). Forex exchange rate forecasting using deep recurrent neural networks. [online] Springer Link. Available at:
+https://link.springer.com/article/10.1007/s42521-020-00019-x </br>
 
 
 
