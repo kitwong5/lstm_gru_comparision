@@ -1,12 +1,12 @@
 # Data Set
 a. yfinance </br>
 yfinance is a free API in Python for download historical stock price published by Yahoo Finance. It allows getting real time data for an exchange traded financial instrument. 
-The data feed provided the instrument’s volume and price information.
-URL: https://pypi.org/project/yfinance/
+The data feed provided the instrument’s volume and price information. </br>
+URL: https://pypi.org/project/yfinance/ </br>
 b. forxpy </br>
 forxpy is a free API in Python for download historical FX rates published by Bank of Canada. It allows getting the daily historical FX rate in Canadian base rate and business 
-date. The data feed provided a date attribute and the FX rate for 24 currencies.
-URL: https://pypi.org/project/forxpy/
+date. The data feed provided a date attribute and the FX rate for 24 currencies. </br>
+URL: https://pypi.org/project/forxpy/ </br>
 # Data Analysis
 The Long short-term memory (LSTM) and Gated recurrent units (GUR) models are popular machine learning models for stock price prediction. There are many speculation commented GUR is outperform LSTM in stock price forecasting by able to produce more accurate prediction results. In this exercise, I will perform stock price prediction with both models and compare both results.
 
